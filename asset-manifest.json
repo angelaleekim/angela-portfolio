@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/angela-portfolio/static/css/main.d6d3fbda.chunk.css",
+    "main.js": "/angela-portfolio/static/js/main.50a294a0.chunk.js",
+    "main.js.map": "/angela-portfolio/static/js/main.50a294a0.chunk.js.map",
+    "runtime-main.js": "/angela-portfolio/static/js/runtime-main.b959a596.js",
+    "runtime-main.js.map": "/angela-portfolio/static/js/runtime-main.b959a596.js.map",
+    "static/js/2.d9c78662.chunk.js": "/angela-portfolio/static/js/2.d9c78662.chunk.js",
+    "static/js/2.d9c78662.chunk.js.map": "/angela-portfolio/static/js/2.d9c78662.chunk.js.map",
+    "index.html": "/angela-portfolio/index.html",
+    "precache-manifest.6c551c1b263207b9823ed13cebd21345.js": "/angela-portfolio/precache-manifest.6c551c1b263207b9823ed13cebd21345.js",
+    "service-worker.js": "/angela-portfolio/service-worker.js",
+    "static/css/main.d6d3fbda.chunk.css.map": "/angela-portfolio/static/css/main.d6d3fbda.chunk.css.map",
+    "static/js/2.d9c78662.chunk.js.LICENSE.txt": "/angela-portfolio/static/js/2.d9c78662.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b959a596.js",
+    "static/js/2.d9c78662.chunk.js",
+    "static/css/main.d6d3fbda.chunk.css",
+    "static/js/main.50a294a0.chunk.js"
+  ]
+}
